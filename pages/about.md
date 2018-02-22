@@ -19,7 +19,7 @@ permalink: /about/
 
 ## 联系
 
-* GitHub：[@mzlogin](https://github.com/mzlogin)
+* GitHub：[@Rokiexie](https://github.com/Rokiexie)
 * 微博: [@海边的蟹](https://weibo.com/shiguangxiangzuo/profile?rightmod=1&wvr=6&mod=personinfon)
 
 ## Skill Keywords
