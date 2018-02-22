@@ -11,7 +11,7 @@ keywords: 谢园, rokiexie, login, xieyuan
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-source_code: https://github.com/mzlogin/mzlogin.github.io
+source_code: https://github.com/rokeixie
 side_bar_repo_limit: 5
 
 # ---------------- #
@@ -80,12 +80,11 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
-douban_username: freedim
-facebook_username: mzlogin
-weibo_username: mzlogin
-zhihu_username: mzlogin
-twitter_username: mzlogin
+github_username: rokiexie
+facebook_username: rokiexie
+weibo_username: 海边的蟹
+zhihu_username: 谢园谢园
+twitter_username: rokiexie
 
 # ---------------- #
 #      Comments    #
@@ -106,6 +105,6 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Java, C++, Python, Design Patterns]
-skill_mobile_app_keywords: [Android, Reverse Engineering]
-skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
+skill_software_keywords: [Java,  Python]
+skill_mobile_app_keywords: [Android]
+skill_windows_keywords: [Win32 SDK]
