@@ -4,8 +4,8 @@
 baseurl:
 url: rokiexie.github.io
 date_format: "ordinal"
-title: 谢园xy
-subtitle: "Android开发之旅"
+title: 谢园rokiexie
+subtitle: "Python and fun"
 description: "谢园的个人博客"
 keywords: 谢园, rokiexie, login, xieyuan
 favicon: /favicon.ico
@@ -94,8 +94,8 @@ twitter_username: mzlogin
 comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: mazhuang
-disqus_username: mzlogin
+duoshuo_username: rokiexie
+disqus_username: rokiexie
 
 # ---------------- #
 #    Analytics     #
