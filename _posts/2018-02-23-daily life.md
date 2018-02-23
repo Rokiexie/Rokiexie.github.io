@@ -87,4 +87,3 @@ tagbar 默认并不支持 Markdown 文件，但配置一下就好了。
    let g:tagbar_left = 1
    ```
 
-至此，大功告成了！
