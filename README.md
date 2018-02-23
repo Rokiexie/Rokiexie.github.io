@@ -16,7 +16,6 @@
 
 ![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
 
-。
 
 ## 致谢
 感谢马大壮提供的界面模板
