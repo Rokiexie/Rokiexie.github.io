@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 日常吐槽
+title: 上饶团干部培训这周
 categories: blog
-description: 深度的努力焦虑症
+description: 深度的努力焦虑症和不合群症状
 keywords: daily life
 ---
 
-讨厌现在的生活状态....
+生活状态不好…参与团体活动的积极性低…
 
 
 
-## 想想取啥标题
+## 后面再写吧
 
 [test](http://www.youku.com)
 
